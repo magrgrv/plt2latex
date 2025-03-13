@@ -1,7 +1,0 @@
-.gitignor
-.DS_Store
-.idea*
-venv
-build
-plt2latex.egg-info
-dist
